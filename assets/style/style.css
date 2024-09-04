@@ -1,0 +1,46 @@
+/* BASIC STYLES HERE */
+.profile-picture {
+  height: 200px;
+  max-width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
+.profile-picture.profile-picture-sm {
+  height: 64px;
+}
+
+body {
+  background-color: #202020;
+}
+
+.text-green {
+  color: #46FD83;
+}
+
+.text-black {
+  color: #000000;
+}
+
+.text-white {
+  color: #FFFFFF;
+}
+
+.bg-color-m {
+  background-color: #202020;
+}
+
+.bg-color-h {
+  background-color: #E93031;
+}
+
+.border-style {
+  border: 2px solid #E93031;
+  border-radius: 5px;
+}
+
+.content-area {
+  width: 100%;
+  height: 80vh;
+
+}
